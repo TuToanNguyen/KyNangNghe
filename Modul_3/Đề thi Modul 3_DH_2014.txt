@@ -1,0 +1,9 @@
+﻿Đề gồm 2 câu:
+	Câu 1: Tạo Clock với các yêu cầu sau:(giờ là 24h)
+		-Hàm tạo cáo đối số 
+		-Hàm nhập, in
+		-Hàm làm tròn
+		-Nhập Clock A như sau (hh:mm: ss)
+		-Nhập n phút từ bàn phím,sau đó cộng n phút với A
+	Câu 2: Đề tài Quản lý bênh nhân
+		( tự xử )
