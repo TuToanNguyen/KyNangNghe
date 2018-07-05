@@ -1,0 +1,10 @@
+D:\C#\QLTV\QLTV\bin\Debug\QLTV.exe.config
+D:\C#\QLTV\QLTV\bin\Debug\QLTV.exe
+D:\C#\QLTV\QLTV\bin\Debug\QLTV.pdb
+D:\C#\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+D:\C#\QLTV\QLTV\obj\Debug\QLTV.frmdangnhap.resources
+D:\C#\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+D:\C#\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+D:\C#\QLTV\QLTV\obj\Debug\QLTV.exe
+D:\C#\QLTV\QLTV\obj\Debug\QLTV.pdb
+D:\C#\QLTV\QLTV\obj\Debug\QLTV.frmmain.resources

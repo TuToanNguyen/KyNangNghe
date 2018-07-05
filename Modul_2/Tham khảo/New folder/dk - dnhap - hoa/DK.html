@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<head>
+	<title>DANG KY</title>
+
+<script>
+	function kiemtra()
+	{
+	var matkhau = document.getElementById("mk").value;
+	var matkhau2 = document.getElementById("mk2").value;
+	if(matkhau != matkhau2)
+	{
+		document.getElementById("thongbao").innerHTML = "Mat khau phai trung nhau!";
+	}
+	}
+</script>
+
+</head>
+<body>
+	<form action="DK.php" method="post">
+		<h2> DANG KY </h2>
+		TEN  <br>
+		<input type="text" name="ten"><br>
+		ho TEN  <br>
+		<input type="text" name="hoten"><br>
+		MAT KHAU<br>
+		<input type="password" name="mk" id="mk"><br>
+		NHAP LAI MAT KHAU<br>
+		<input type="password" name="mk2" id="mk2" onblur="kiemtra()"><br> <p id="thongbao"></p>
+
+		<input type="submit" name="DANGKY">
+		<input type="reset" name=" RESET ">
+	</form>
+</body>
+
+
+</html>

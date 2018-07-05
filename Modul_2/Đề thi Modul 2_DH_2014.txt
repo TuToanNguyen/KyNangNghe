@@ -1,0 +1,7 @@
+﻿Đề gồm 4 câu:
+2 câu c#
+	-2.1: Tạo form tính toán đơn giản (số nguyên tố, cộng, trừ, nhân, chia)
+	-2.2: Tạo form thêm, sửa, xóa, load dữ liệu lên data gridview, combobox (có sử dụng menutrip, xử lý sự kiện thoát form)
+2 câu web
+	-2.1: Tạo trang shophoa.html
+	-2.2: Tạo trang đăng ký (tạo header + footer cho trang web), ràng buộc dữ liệu nhập vào, đổi màu button.

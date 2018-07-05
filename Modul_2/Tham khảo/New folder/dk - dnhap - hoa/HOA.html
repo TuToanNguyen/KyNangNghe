@@ -1,0 +1,43 @@
+<html>
+<body>
+	<table border="1" align="center">
+<tr>
+	<td colspan="2" style=" background: green;" 
+       onmouseover = "this.style.background='blue';" 
+       onmouseout = "this.style.background='green';" >
+		<h1><center>10 LOAI HOA DEP NHAT THE GIOI</center></h1>
+	</td>
+</tr>
+<tr>
+	<td id="hoahong" onclick="hienthi('hoahong')" >
+		HOA Champion
+	</td>
+	<td  rowspan="4">
+		<img id="hoa1" src="image/hinhanh.jpg" width="410" height="300"/>
+	</td>
+</tr>
+<tr>
+	<td id="hoalan" onclick="hienthi('hoalan')"  >
+		Hoa lan
+	</td>
+</tr>
+<tr>
+	<td id="hoacuc" onclick="hienthi('hoacuc')" >
+		Hoa cuc
+	</td>
+</tr>
+<tr>
+	<td>
+		<h2>Hoa Corpse</h2>
+	</td>
+</tr>
+</table>
+
+
+<script type="text/javascript">
+	function hienthi(hinhanh) {
+		document.getElementById("hoa1").src = "image/" + hinhanh +".jpg";
+	}	
+</script>
+</body>
+</html>

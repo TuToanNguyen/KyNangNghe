@@ -1,0 +1,21 @@
+*{
+  padding: 0;
+  margrin: 0;
+}
+img{
+  width:400px;
+  height:300px;
+}
+.chon:hover{
+  transition:all 0.2s;
+  font-size:20px;
+  font-weight:bold;
+  color:#f00;
+}
+td{
+  height:25px;
+  width:280px;
+}
+th{
+  font-size:25px;
+}
